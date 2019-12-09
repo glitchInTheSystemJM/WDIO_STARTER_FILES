@@ -6,6 +6,7 @@ Node, Prettier, and Eslint config files for WDIO
 
 Open a Terminal to the root directory.
 Run "npm install".
+Run "npm install -g allure-commandline --save-dev"
 
 ## Visual Studio Code
 
